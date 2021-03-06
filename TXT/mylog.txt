@@ -11,4 +11,5 @@ ZCZC W01 80 L02 Zoom related
 ZCZC W01 20 L03 GitHub related
 ZCZC W01 300 L05 GSGS related
 ZCZC W01 480 L11 Assignment #1
+ZCZC W01 90 L11 Assignment #1
 ZCZC W01 90 L09 AsDos: asking, asistensi
