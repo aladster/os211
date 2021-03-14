@@ -9,39 +9,22 @@
 # REV01 Tue 13 Oct 10:37:14 WIB 2020
 # START Mon 28 Sep 21:05:04 WIB 2020
 
-REC1=operatingsystems@vlsm.org
-REC2=cbk@dummy
-FILES=my*.asc mylog.txt my*.sh
+FILES=my*.asc mylog.txt mypubkey.txt myrank.txt my*.sh
 SHA=SHA256SUM
 
-[ -d /home/aladster/RESULT ] || { echo No /home/aladster/RESULT directory ; exit; }
-pushd /home/aladster/RESULT
-for II in W?? ; do
-    [ -d  ] || continue
-    TARFILE=my.tar.bz2
-    TARFASC=.asc
-    rm -f  
-    echo tar cfj /
-    tar cfj  /
-    echo gpg --armor --output --encrypt --recipient --recipient 
-    gpg --armor --output  --encrypt --recipient  --recipient  
-done
-popd
+echo rm -f SHA256SUM SHA256SUM.asc
+rm -f SHA256SUM SHA256SUM.asc
 
-echo mv -f /home/aladster/RESULT/myW*.tar.bz2.asc .
-mv -f /home/aladster/RESULT/myW*.tar.bz2.asc .
+echo sha256sum my*.txt my*.sh > SHA256SUM
+sha256sum my*.txt my*.sh > SHA256SUM
 
-echo rm -f .asc
-rm -f  .asc
+echo sha256sum -c SHA256SUM
+sha256sum -c SHA256SUM
 
-echo sha256sum -c 
-sha256sum -c 
+echo gpg -o SHA256SUM.asc -a -sb SHA256SUM
+gpg -o SHA256SUM.asc -a -sb SHA256SUM
 
-echo gpg -o .asc -a -sb 
-gpg -o .asc -a -sb 
-
-echo gpg --verify .asc 
-gpg --verify .asc 
+echo gpg --verivy SHA256SUM.asc SHA256SUM
+gpg --verify SHA256SUM.asc SHA256SUM
 
 exit 0
-
