@@ -4,3 +4,7 @@
 ZCZC W01 hockyy
 ZCZC W01 stevensim226
 ZCZC W01 Pinatnat
+#Week 02
+ZCZC W02 andrew-susanto
+ZCZC W02 alfina-megasiwi
+ZCZC W02 AlifHazairin
