@@ -12,3 +12,7 @@ ZCZC W02 AlifHazairin
 ZCZC W03 AlifHazairin
 ZCZC W03 alishayb
 ZCZC W03 amzufar
+# Week 04
+ZCZC W04 alifsaddid
+ZCZC W04 altschmerz
+ZCZC W04 alfina-megasiwi
