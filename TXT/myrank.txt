@@ -16,3 +16,7 @@ ZCZC W03 amzufar
 ZCZC W04 alifsaddid
 ZCZC W04 altschmerz
 ZCZC W04 alfina-megasiwi
+# Week 05
+ZCZC W05 alifsaddid
+ZCZC W05 andrew-susanto
+ZCZC W05 alfina-megasiwi
