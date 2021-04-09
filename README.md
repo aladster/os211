@@ -6,3 +6,4 @@ Operating Systems 2021-1
 [W03](https://github.com/aladster/os211/blob/master/w03.md)<br>
 [W04](https://github.com/aladster/os211/blob/master/w04.md)<br>
 [W05](https://github.com/aladster/os211/blob/master/w05.md)<br>
+[W06](https://github.com/aladster/os211/blob/master/w06.md)<br>
