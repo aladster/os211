@@ -20,3 +20,8 @@ ZCZC W04 alfina-megasiwi
 ZCZC W05 alifsaddid
 ZCZC W05 andrew-susanto
 ZCZC W05 alfina-megasiwi
+# Week 06
+ZCZC W06 amzufar
+ZCZC W06 AlifHazairin
+ZCZC W06 AldiNFitrah
+
