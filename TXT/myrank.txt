@@ -24,4 +24,7 @@ ZCZC W05 alfina-megasiwi
 ZCZC W06 amzufar
 ZCZC W06 AlifHazairin
 ZCZC W06 AldiNFitrah
-
+# Week 07
+ZCZC W07 alishayb
+ZCZC W07 AldiNFitrah
+ZCZC W07 alfina-megasiwi
