@@ -51,3 +51,9 @@ ZCZC W06 60 L03 GitHub related
 ZCZC W06 150 L05 GSGS related
 ZCZC W06 60 L06 Reading Refences/Books/Documents
 ZCZC W06 260 L10 Assignment (General)
+ZCZC W07 30 L01 Scele related
+ZCZC W07 120 L02 Zoom related
+ZCZC W07 40 L03 GitHub related
+ZCZC W07 90 L05 GSGS related
+ZCZC W07 60 L06 Reading Refences/Books/Documents
+ZCZC W07 240 L10 Assignment (General)
