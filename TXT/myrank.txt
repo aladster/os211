@@ -28,3 +28,7 @@ ZCZC W06 AldiNFitrah
 ZCZC W07 alishayb
 ZCZC W07 AldiNFitrah
 ZCZC W07 alfina-megasiwi
+# Week 08
+ZCZC W08 AndreSeptiano
+ZCZC W08 alfina-megasiwi
+ZCZC W08 AlifHazairin
