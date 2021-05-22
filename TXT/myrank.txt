@@ -32,3 +32,7 @@ ZCZC W07 alfina-megasiwi
 ZCZC W08 AndreSeptiano
 ZCZC W08 alfina-megasiwi
 ZCZC W08 AlifHazairin
+# Week 09
+ZCZC W09 alfina-megasiwi
+ZCZC W09 Andre-71
+ZCZC W09 AlifHazairin
