@@ -68,4 +68,4 @@ ZCZC W09 120 L02 Zoom related
 ZCZC W09 30 L03 GitHub related
 ZCZC W09 90 L05 GSGS related
 ZCZC W09 10 L06 Reading Refences/Books/Documents
-ZCZC W09 320 L10 Assignment (General)
+ZCZC W09 540 L10 Assignment (General)
