@@ -36,3 +36,7 @@ ZCZC W08 AlifHazairin
 ZCZC W09 alfina-megasiwi
 ZCZC W09 Andre-71
 ZCZC W09 AlifHazairin
+# Week 10
+ZCZC W10 alfina-megasiwi
+ZCZC W10 amandacarrisa
+ZCZC W10 AlifHazairin
